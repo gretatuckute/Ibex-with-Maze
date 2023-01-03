@@ -8,7 +8,7 @@ var defaults = [
     //"Maze", {redo: true}, //uncomment to try Maze with new redo mode with a delay!
 ];
 var items = [
-	["evlab_intro_instructions", "Message", {html: "<p>You are participating in a study about language and related cognitive abilities being conducted by Professor Evelina Fedorenko from the Department of Brain and Cognitive Sciences at MIT. If you have questions or concerns, you can contact Professor Fedorenko by email (evelina9@mit.edu</p>"}],
+	["evlab_intro_instructions", "Message", {html: "<p>You are participating in a study about language and related cognitive abilities being conducted by Professor Evelina Fedorenko from the Department of Brain and Cognitive Sciences at MIT. If you have questions or concerns, you can contact Professor Fedorenko by email (evelina9@mit.edu)</p>"}],
 				["Question1", "Question", {q:"Question!!!!!!!!!!", as:["Answer 1 :)", "Answer 2", "Answer 3"], hasCorrect:0}],
 		["instructions2", "Message", {html:'End of sample Maze experiment.'}],
 			["gretatest", "Message", {html:'Hello there!'}],
