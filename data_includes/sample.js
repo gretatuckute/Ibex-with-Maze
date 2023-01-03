@@ -8,11 +8,11 @@ var defaults = [
     //"Maze", {redo: true}, //uncomment to try Maze with new redo mode with a delay!
 ];
 var items = [
-	["evlab_intro_instructions", "Message", {html: "<p>You are participating in a study about language and related cognitive abilities being conducted by Professor Evelina Fedorenko from the Department of Brain and Cognitive Sciences at MIT. If you have questions or concerns, you can contact Professor Fedorenko by email (evelina9@mit.edu)</p>"}],
+	["evlab_intro_instructions", "Message", {html: "<p>You are participating in a study about language and related cognitive abilities being conducted by Professor Evelina Fedorenko from the Department of Brain and Cognitive Sciences at MIT. If you have questions or concerns, you can contact Professor Fedorenko by email <code>(evelina9@mit.edu)</code>.</p>"}],
 				["Question1", "Question", {q:"Question!!!!!!!!!!", as:["Answer 1 :)", "Answer 2", "Answer 3"], hasCorrect:0}],
 		["instructions2", "Message", {html:'End of sample Maze experiment.'}],
 			["gretatest", "Message", {html:'Hello there!'}],
-	["intro-gram", "Message", {html: "<p>For this experiment, please place your left index finger on the 'e' key and your right index finger on the 'i' key.</p><p> You will read sentences word by word. On each screen you will see two options: one will be the next word in the sentence, and one will not. Select the word that continues the sentence by pressing 'e' (left-hand) for the word on the left or pressing 'i' (right-hand) for the word on the right.</p><p>Select the best word as quickly as you can, but without making too many errors.</p>"}],
+	["intro-gram", "Message", {html: "<p>For this experiment, please place your left index finger on the <kbd>e</kbd> key and your right index finger on the <kbd>i</kbd> key.</p><p> You will read sentences word by word. On each screen you will see two options: one will be the next word in the sentence, and one will not. Select the word that continues the sentence by pressing <kbd>e</kbd> (left-hand) for the word on the left or pressing <kbd>i</kbd> (right-hand) for the word on the right.</p><p>Select the best word as quickly as you can, but without making too many errors.</p>"}],
 	["intro-practice", "Message", {html: "The following items are for practice." }],
 	["end-practice", "Message", {html: "End of practice. The experiment will begin next."}],
 	["sep", "MazeSeparator", {normalMessage: "Correct! Press any key to continue", errorMessage: "Incorrect! Press any key to continue."}],
