@@ -663,3 +663,140 @@
 1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,3,13,all,ran,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
 1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,3,14,of,eat,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
 1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,3,15,them.,soon.,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+#
+# Results on Wednesday January 04 2023 21:45:59 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:108.0) Gecko/20100101 Firefox/108.0
+# Design number was non-random = 8
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Form,0,0,q_intro_prolificid,NULL,prolificid,949494gfkfkf3f3
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Question,2,0,q_intro_country,NULL,What country are you from?,Canada,0,1038
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Question,3,0,q_intro_language,NULL,Is English your first language?,Yes,1,23013
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Question,4,0,q_intro_age,NULL,What is your age bracket?,18-24,1,613
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Alternative.
+# 11. Word on (0=left, 1=right).
+# 12. Correct.
+# 13. Reading time to first answer.
+# 14. Sentence.
+# 15. Total time to correct answer.
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,0,The,x-x-x,0,yes,1666,The mother of the prisoner sent him packages that contained cookies and novels.,1666
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,1,mother,placed,0,yes,197,The mother of the prisoner sent him packages that contained cookies and novels.,197
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,2,of,dry,0,yes,292,The mother of the prisoner sent him packages that contained cookies and novels.,292
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,3,the,arm,0,yes,207,The mother of the prisoner sent him packages that contained cookies and novels.,207
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,4,prisoner,amounted,1,no,268,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,5,sent,rare,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,6,him,nor,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,7,packages,rhythmic,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,8,that,fund,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,9,contained,authority,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,10,cookies,blossom,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,11,and,me,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,12,novels.,defect.,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,0,The,x-x-x,0,yes,942,The semester will start next week%2C but the students and teachers are not ready.,942
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,1,semester,chivalry,0,yes,473,The semester will start next week%2C but the students and teachers are not ready.,473
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,2,will,anti,0,yes,359,The semester will start next week%2C but the students and teachers are not ready.,359
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,3,start,wages,0,yes,406,The semester will start next week%2C but the students and teachers are not ready.,406
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,4,next,body,0,yes,383,The semester will start next week%2C but the students and teachers are not ready.,383
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,5,week%2C,sold%2C,1,no,719,The semester will start next week%2C but the students and teachers are not ready.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,6,but,sin,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,7,the,sky,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,8,students,entitled,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,9,and,sky,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,10,teachers,concrete,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,11,are,oil,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,12,not,him,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,13,ready.,goods.,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,20,0,crit_item,1032,0,Triangular,x-x-x,0,yes,3109,Triangular silver plastic%2C "NEWSTART PE-TA-PUN A.V.C.",3109
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,20,0,crit_item,1032,1,silver,miller,1,yes,922,Triangular silver plastic%2C "NEWSTART PE-TA-PUN A.V.C.",922
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,20,0,crit_item,1032,2,plastic%2C,ongoing%2C,0,yes,1146,Triangular silver plastic%2C "NEWSTART PE-TA-PUN A.V.C.",1146
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,20,0,crit_item,1032,3,"NEWSTART,"OPERANDS,0,yes,2837,Triangular silver plastic%2C "NEWSTART PE-TA-PUN A.V.C.",2837
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,20,0,crit_item,1032,4,PE-TA-PUN,WATERSHED,1,yes,2384,Triangular silver plastic%2C "NEWSTART PE-TA-PUN A.V.C.",2384
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,20,0,crit_item,1032,5,A.V.C.",OBOES.",0,yes,1149,Triangular silver plastic%2C "NEWSTART PE-TA-PUN A.V.C.",1149
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,18,0,crit_item,1736,0,You,x-x-x,0,yes,786,You ask for a 50. Nab.,786
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,18,0,crit_item,1736,1,ask,lake,1,yes,812,You ask for a 50. Nab.,812
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,18,0,crit_item,1736,2,for,knew,1,yes,606,You ask for a 50. Nab.,606
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,18,0,crit_item,1736,3,a,cent,1,yes,610,You ask for a 50. Nab.,610
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,18,0,crit_item,1736,4,50.,en.,0,yes,1302,You ask for a 50. Nab.,1302
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,18,0,crit_item,1736,5,Nab.,Pomp.,0,yes,2341,You ask for a 50. Nab.,2341
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,19,0,crit_item,1561,0,Wars,x-x-x,0,yes,629,Wars SELECT any revised wretched%2C really?,629
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,19,0,crit_item,1561,1,SELECT,CLOSET,0,yes,1687,Wars SELECT any revised wretched%2C really?,1687
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,19,0,crit_item,1561,2,any,jack,0,yes,629,Wars SELECT any revised wretched%2C really?,629
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,19,0,crit_item,1561,3,revised,expired,1,no,1058,Wars SELECT any revised wretched%2C really?,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,19,0,crit_item,1561,4,wretched%2C,worsened%2C,0,no,None,Wars SELECT any revised wretched%2C really?,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,19,0,crit_item,1561,5,really?,happen?,0,no,None,Wars SELECT any revised wretched%2C really?,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,16,0,crit_item,1068,0,Nasser,x-x-x,0,yes,739,Nasser sighed%2C apparently weighing the same..,739
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,16,0,crit_item,1068,1,sighed%2C,bikers%2C,1,yes,1309,Nasser sighed%2C apparently weighing the same..,1309
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,16,0,crit_item,1068,2,apparently,parameters,1,yes,1032,Nasser sighed%2C apparently weighing the same..,1032
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,16,0,crit_item,1068,3,weighing,dividend,0,yes,1101,Nasser sighed%2C apparently weighing the same..,1101
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,16,0,crit_item,1068,4,the,tell,1,yes,791,Nasser sighed%2C apparently weighing the same..,791
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,16,0,crit_item,1068,5,same..,hear..,0,no,1240,Nasser sighed%2C apparently weighing the same..,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,1048,0,Played,x-x-x,0,yes,585,Played from and unified by Amazon.,585
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,1048,1,from,lose,0,yes,1282,Played from and unified by Amazon.,1282
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,1048,2,and,grow,1,no,1173,Played from and unified by Amazon.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,1048,3,unified,octopus,0,no,None,Played from and unified by Amazon.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,1048,4,by,sir,0,no,None,Played from and unified by Amazon.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,1048,5,Amazon.,Guilty.,1,no,None,Played from and unified by Amazon.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1555,0,POWDER,x-x-x,0,no,717,POWDER ROOM Ricardo Sat foul Notre.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1555,1,ROOM,OKAY,1,no,None,POWDER ROOM Ricardo Sat foul Notre.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1555,2,Ricardo,Fittest,0,no,None,POWDER ROOM Ricardo Sat foul Notre.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1555,3,Sat,Math,0,no,None,POWDER ROOM Ricardo Sat foul Notre.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1555,4,foul,riot,0,no,None,POWDER ROOM Ricardo Sat foul Notre.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1555,5,Notre.,Widen.,0,no,None,POWDER ROOM Ricardo Sat foul Notre.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,1591,0,Thank,x-x-x,0,yes,450,Thank spawned for Arc this Ven.,450
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,1591,1,spawned,plagued,1,no,381,Thank spawned for Arc this Ven.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,1591,2,for,west,1,no,None,Thank spawned for Arc this Ven.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,1591,3,Arc,Inn,0,no,None,Thank spawned for Arc this Ven.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,1591,4,this,lady,1,no,None,Thank spawned for Arc this Ven.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,1591,5,Ven.,Avg.,0,no,None,Thank spawned for Arc this Ven.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,17,0,crit_item,1730,0,Duderstadt,x-x-x,0,yes,70627,Duderstadt in the Eichsfeld tattoos pred.,70627
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,17,0,crit_item,1730,1,in,sir,1,no,495,Duderstadt in the Eichsfeld tattoos pred.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,17,0,crit_item,1730,2,the,glad,0,no,None,Duderstadt in the Eichsfeld tattoos pred.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,17,0,crit_item,1730,3,Eichsfeld,Abrogated,1,no,None,Duderstadt in the Eichsfeld tattoos pred.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,17,0,crit_item,1730,4,tattoos,screwed,1,no,None,Duderstadt in the Eichsfeld tattoos pred.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,17,0,crit_item,1730,5,pred.,loam.,1,no,None,Duderstadt in the Eichsfeld tattoos pred.,None
