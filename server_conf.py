@@ -21,7 +21,7 @@ SERVER_MODE = "toy"
 
 # The port the server will run on if running in stand-alone
 # mode.
-PORT = 3000
+PORT = 8767
 
 # The name of the directory where result files will be stored.
 # The directory will automatically be created if it doesn't exist
