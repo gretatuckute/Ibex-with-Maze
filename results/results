@@ -1,0 +1,802 @@
+#
+# Results on Wednesday January 04 2023 20:06:49 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:108.0) Gecko/20100101 Firefox/108.0
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Question,1,0,q_intro_country,NULL,What country are you from?,USA,1,1252
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Question,2,0,q_intro_language,NULL,Is English your first language?,Yes,1,1379
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Question,3,0,q_intro_age,NULL,What is your age bracket?,18-24,1,913
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Alternative.
+# 11. Word on (0=left, 1=right).
+# 12. Correct.
+# 13. Reading time to first answer.
+# 14. Sentence.
+# 15. Total time to correct answer.
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,0,The,x-x-x,0,yes,4424,The mother of the prisoner sent him packages that contained cookies and novels.,4424
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,1,mother,placed,1,yes,1078,The mother of the prisoner sent him packages that contained cookies and novels.,1078
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,2,of,dry,0,yes,1171,The mother of the prisoner sent him packages that contained cookies and novels.,1171
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,3,the,arm,1,yes,897,The mother of the prisoner sent him packages that contained cookies and novels.,897
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,4,prisoner,amounted,0,yes,1128,The mother of the prisoner sent him packages that contained cookies and novels.,1128
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,5,sent,rare,1,yes,830,The mother of the prisoner sent him packages that contained cookies and novels.,830
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,6,him,nor,1,yes,587,The mother of the prisoner sent him packages that contained cookies and novels.,587
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,7,packages,rhythmic,1,yes,764,The mother of the prisoner sent him packages that contained cookies and novels.,764
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,8,that,fund,0,yes,2565,The mother of the prisoner sent him packages that contained cookies and novels.,2565
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,9,contained,authority,0,yes,1034,The mother of the prisoner sent him packages that contained cookies and novels.,1034
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,10,cookies,blossom,1,yes,1103,The mother of the prisoner sent him packages that contained cookies and novels.,1103
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,11,and,me,1,yes,629,The mother of the prisoner sent him packages that contained cookies and novels.,629
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,12,novels.,defect.,0,yes,1194,The mother of the prisoner sent him packages that contained cookies and novels.,1194
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,0,The,x-x-x,0,yes,1009,The semester will start next week%2C but the students and teachers are not ready.,1009
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,1,semester,chivalry,0,yes,1419,The semester will start next week%2C but the students and teachers are not ready.,1419
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,2,will,anti,0,yes,652,The semester will start next week%2C but the students and teachers are not ready.,652
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,3,start,wages,0,yes,652,The semester will start next week%2C but the students and teachers are not ready.,652
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,4,next,body,0,yes,810,The semester will start next week%2C but the students and teachers are not ready.,810
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,5,week%2C,sold%2C,1,yes,900,The semester will start next week%2C but the students and teachers are not ready.,900
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,6,but,sin,1,yes,944,The semester will start next week%2C but the students and teachers are not ready.,944
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,7,the,sky,1,yes,1013,The semester will start next week%2C but the students and teachers are not ready.,1013
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,8,students,entitled,0,yes,879,The semester will start next week%2C but the students and teachers are not ready.,879
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,9,and,sky,1,yes,745,The semester will start next week%2C but the students and teachers are not ready.,745
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,10,teachers,concrete,1,yes,581,The semester will start next week%2C but the students and teachers are not ready.,581
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,11,are,oil,0,yes,767,The semester will start next week%2C but the students and teachers are not ready.,767
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,12,not,him,1,yes,720,The semester will start next week%2C but the students and teachers are not ready.,720
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,13,ready.,goods.,0,yes,718,The semester will start next week%2C but the students and teachers are not ready.,718
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,0,Kim,x-x-x,0,yes,11072,Kim will display the photos she took last month%2C but she won't show all of them.,11072
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,1,will,milk,0,yes,785,Kim will display the photos she took last month%2C but she won't show all of them.,785
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,2,display,dealing,1,yes,989,Kim will display the photos she took last month%2C but she won't show all of them.,989
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,3,the,sit,1,yes,630,Kim will display the photos she took last month%2C but she won't show all of them.,630
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,4,photos,compel,0,yes,765,Kim will display the photos she took last month%2C but she won't show all of them.,765
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,5,she,eat,0,yes,1778,Kim will display the photos she took last month%2C but she won't show all of them.,1778
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,6,took,thin,1,yes,944,Kim will display the photos she took last month%2C but she won't show all of them.,944
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,7,last,poem,1,yes,744,Kim will display the photos she took last month%2C but she won't show all of them.,744
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,8,month%2C,older%2C,0,yes,1913,Kim will display the photos she took last month%2C but she won't show all of them.,1913
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,9,but,us,1,yes,1077,Kim will display the photos she took last month%2C but she won't show all of them.,1077
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,10,she,thy,1,yes,610,Kim will display the photos she took last month%2C but she won't show all of them.,610
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,11,won't,scale,1,yes,809,Kim will display the photos she took last month%2C but she won't show all of them.,809
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,12,show,soft,0,yes,808,Kim will display the photos she took last month%2C but she won't show all of them.,808
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,13,all,ran,1,yes,1350,Kim will display the photos she took last month%2C but she won't show all of them.,1350
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,14,of,eat,0,yes,788,Kim will display the photos she took last month%2C but she won't show all of them.,788
+1672862810,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,15,them.,soon.,0,yes,677,Kim will display the photos she took last month%2C but she won't show all of them.,677
+#
+# Results on Wednesday January 04 2023 20:14:35 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:108.0) Gecko/20100101 Firefox/108.0
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Question,1,0,q_intro_country,NULL,What country are you from?,UK,0,737
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Question,2,0,q_intro_language,NULL,Is English your first language?,Yes,1,923
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Question,3,0,q_intro_age,NULL,What is your age bracket?,18-24,1,665
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Alternative.
+# 11. Word on (0=left, 1=right).
+# 12. Correct.
+# 13. Reading time to first answer.
+# 14. Sentence.
+# 15. Total time to correct answer.
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,0,The,x-x-x,0,yes,1698,The mother of the prisoner sent him packages that contained cookies and novels.,1698
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,1,mother,placed,0,yes,203,The mother of the prisoner sent him packages that contained cookies and novels.,203
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,2,of,dry,1,no,425,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,3,the,arm,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,4,prisoner,amounted,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,5,sent,rare,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,6,him,nor,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,7,packages,rhythmic,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,8,that,fund,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,9,contained,authority,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,10,cookies,blossom,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,11,and,me,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,12,novels.,defect.,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,0,The,x-x-x,0,yes,582,The semester will start next week%2C but the students and teachers are not ready.,582
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,1,semester,chivalry,0,yes,270,The semester will start next week%2C but the students and teachers are not ready.,270
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,2,will,anti,1,no,315,The semester will start next week%2C but the students and teachers are not ready.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,3,start,wages,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,4,next,body,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,5,week%2C,sold%2C,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,6,but,sin,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,7,the,sky,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,8,students,entitled,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,9,and,sky,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,10,teachers,concrete,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,11,are,oil,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,12,not,him,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,13,ready.,goods.,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,0,Kim,x-x-x,0,yes,992,Kim will display the photos she took next month%2C but she won't show all of them.,992
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,1,will,milk,0,yes,406,Kim will display the photos she took next month%2C but she won't show all of them.,406
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,2,display,dealing,0,yes,539,Kim will display the photos she took next month%2C but she won't show all of them.,539
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,3,the,sit,1,no,988,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,4,photos,compel,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,5,she,eat,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,6,took,thin,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,7,next,poem,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,8,month%2C,older%2C,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,9,but,us,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,10,she,thy,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,11,won't,scale,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,12,show,soft,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,13,all,ran,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,14,of,eat,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672863275,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,15,them.,soon.,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+#
+# Results on Wednesday January 04 2023 20:29:08 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:108.0) Gecko/20100101 Firefox/108.0
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Question,1,0,q_intro_country,NULL,What country are you from?,Australia,0,851
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Question,2,0,q_intro_language,NULL,Is English your first language?,No,0,1075
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Question,3,0,q_intro_age,NULL,What is your age bracket?,25-34,0,708
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Alternative.
+# 11. Word on (0=left, 1=right).
+# 12. Correct.
+# 13. Reading time to first answer.
+# 14. Sentence.
+# 15. Total time to correct answer.
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,0,The,x-x-x,0,yes,2638,The mother of the prisoner sent him packages that contained cookies and novels.,2638
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,1,mother,placed,0,yes,448,The mother of the prisoner sent him packages that contained cookies and novels.,448
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,2,of,dry,1,no,381,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,3,the,arm,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,4,prisoner,amounted,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,5,sent,rare,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,6,him,nor,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,7,packages,rhythmic,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,8,that,fund,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,9,contained,authority,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,10,cookies,blossom,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,11,and,me,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,12,novels.,defect.,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,0,The,x-x-x,0,yes,559,The semester will start next week%2C but the students and teachers are not ready.,559
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,1,semester,chivalry,0,yes,183,The semester will start next week%2C but the students and teachers are not ready.,183
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,2,will,anti,1,no,314,The semester will start next week%2C but the students and teachers are not ready.,None
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,3,start,wages,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,4,next,body,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,5,week%2C,sold%2C,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,6,but,sin,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,7,the,sky,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,8,students,entitled,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,9,and,sky,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,10,teachers,concrete,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,11,are,oil,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,12,not,him,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,13,ready.,goods.,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,0,Greta,x-x-x,0,yes,2295,Greta will display the photos she took last month%2C but she won't show all of them.,2295
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,1,will,milk,1,yes,1417,Greta will display the photos she took last month%2C but she won't show all of them.,1417
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,2,display,dealing,0,yes,990,Greta will display the photos she took last month%2C but she won't show all of them.,990
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,3,the,sit,1,yes,832,Greta will display the photos she took last month%2C but she won't show all of them.,832
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,4,photos,compel,0,yes,764,Greta will display the photos she took last month%2C but she won't show all of them.,764
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,5,she,eat,1,yes,743,Greta will display the photos she took last month%2C but she won't show all of them.,743
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,6,took,thin,1,yes,494,Greta will display the photos she took last month%2C but she won't show all of them.,494
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,7,last,poem,1,yes,518,Greta will display the photos she took last month%2C but she won't show all of them.,518
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,8,month%2C,older%2C,0,yes,901,Greta will display the photos she took last month%2C but she won't show all of them.,901
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,9,but,us,1,yes,785,Greta will display the photos she took last month%2C but she won't show all of them.,785
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,10,she,thy,0,yes,947,Greta will display the photos she took last month%2C but she won't show all of them.,947
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,11,won't,scale,1,yes,608,Greta will display the photos she took last month%2C but she won't show all of them.,608
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,12,show,soft,0,yes,786,Greta will display the photos she took last month%2C but she won't show all of them.,786
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,13,all,ran,0,yes,609,Greta will display the photos she took last month%2C but she won't show all of them.,609
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,14,of,eat,1,yes,717,Greta will display the photos she took last month%2C but she won't show all of them.,717
+1672864149,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,72,15,them.,soon.,0,yes,945,Greta will display the photos she took last month%2C but she won't show all of them.,945
+#
+# Results on Wednesday January 04 2023 20:31:39 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:108.0) Gecko/20100101 Firefox/108.0
+# Design number was non-random = 3
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Question,1,0,q_intro_country,NULL,What country are you from?,UK,0,561
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Question,2,0,q_intro_language,NULL,Is English your first language?,Yes,1,989
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Question,3,0,q_intro_age,NULL,What is your age bracket?,18-24,1,418
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Alternative.
+# 11. Word on (0=left, 1=right).
+# 12. Correct.
+# 13. Reading time to first answer.
+# 14. Sentence.
+# 15. Total time to correct answer.
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,0,The,x-x-x,0,yes,1549,The mother of the prisoner sent him packages that contained cookies and novels.,1549
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,1,mother,placed,1,no,178,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,2,of,dry,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,3,the,arm,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,4,prisoner,amounted,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,5,sent,rare,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,6,him,nor,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,7,packages,rhythmic,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,8,that,fund,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,9,contained,authority,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,10,cookies,blossom,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,11,and,me,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,12,novels.,defect.,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,0,The,x-x-x,0,yes,672,The semester will start next week%2C but the students and teachers are not ready.,672
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,1,semester,chivalry,1,no,249,The semester will start next week%2C but the students and teachers are not ready.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,2,will,anti,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,3,start,wages,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,4,next,body,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,5,week%2C,sold%2C,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,6,but,sin,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,7,the,sky,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,8,students,entitled,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,9,and,sky,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,10,teachers,concrete,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,11,are,oil,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,12,not,him,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,13,ready.,goods.,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,0,Kim,x-x-x,0,yes,680,Kim will display the photos she took next month%2C but she won't show all of them.,680
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,1,will,milk,1,yes,1329,Kim will display the photos she took next month%2C but she won't show all of them.,1329
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,2,display,dealing,1,yes,919,Kim will display the photos she took next month%2C but she won't show all of them.,919
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,3,the,sit,0,no,497,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,4,photos,compel,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,5,she,eat,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,6,took,thin,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,7,next,poem,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,8,month%2C,older%2C,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,9,but,us,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,10,she,thy,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,11,won't,scale,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,12,show,soft,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,13,all,ran,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,14,of,eat,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672864299,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,15,them.,soon.,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+#
+# Results on Wednesday January 04 2023 20:49:03 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:108.0) Gecko/20100101 Firefox/108.0
+# Design number was non-random = 4
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Question,1,0,q_intro_country,NULL,What country are you from?,Canada,0,1229
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Question,2,0,q_intro_language,NULL,Is English your first language?,Yes,1,694
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Question,3,0,q_intro_age,NULL,What is your age bracket?,18-24,1,548
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Alternative.
+# 11. Word on (0=left, 1=right).
+# 12. Correct.
+# 13. Reading time to first answer.
+# 14. Sentence.
+# 15. Total time to correct answer.
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,0,The,x-x-x,0,yes,2015,The mother of the prisoner sent him packages that contained cookies and novels.,2015
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,1,mother,placed,0,yes,469,The mother of the prisoner sent him packages that contained cookies and novels.,469
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,2,of,dry,0,yes,406,The mother of the prisoner sent him packages that contained cookies and novels.,406
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,3,the,arm,0,yes,293,The mother of the prisoner sent him packages that contained cookies and novels.,293
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,4,prisoner,amounted,1,no,357,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,5,sent,rare,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,6,him,nor,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,7,packages,rhythmic,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,8,that,fund,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,9,contained,authority,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,10,cookies,blossom,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,11,and,me,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,12,novels.,defect.,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,0,The,x-x-x,0,yes,538,The semester will start next week%2C but the students and teachers are not ready.,538
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,1,semester,chivalry,0,yes,245,The semester will start next week%2C but the students and teachers are not ready.,245
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,2,will,anti,1,no,158,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,3,start,wages,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,4,next,body,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,5,week%2C,sold%2C,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,6,but,sin,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,7,the,sky,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,8,students,entitled,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,9,and,sky,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,10,teachers,concrete,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,11,are,oil,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,12,not,him,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865344,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,13,ready.,goods.,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+#
+# Results on Wednesday January 04 2023 20:50:32 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:108.0) Gecko/20100101 Firefox/108.0
+# Design number was non-random = 5
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Question,1,0,q_intro_country,NULL,What country are you from?,USA,1,1099
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Question,2,0,q_intro_language,NULL,Is English your first language?,Yes,1,725
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Question,3,0,q_intro_age,NULL,What is your age bracket?,18-24,1,452
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Alternative.
+# 11. Word on (0=left, 1=right).
+# 12. Correct.
+# 13. Reading time to first answer.
+# 14. Sentence.
+# 15. Total time to correct answer.
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,0,The,x-x-x,0,yes,1412,The mother of the prisoner sent him packages that contained cookies and novels.,1412
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,1,mother,placed,0,yes,153,The mother of the prisoner sent him packages that contained cookies and novels.,153
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,2,of,dry,0,yes,159,The mother of the prisoner sent him packages that contained cookies and novels.,159
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,3,the,arm,1,no,180,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,4,prisoner,amounted,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,5,sent,rare,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,6,him,nor,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,7,packages,rhythmic,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,8,that,fund,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,9,contained,authority,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,10,cookies,blossom,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,11,and,me,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,12,novels.,defect.,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,0,The,x-x-x,0,yes,309,The semester will start next week%2C but the students and teachers are not ready.,309
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,1,semester,chivalry,0,yes,159,The semester will start next week%2C but the students and teachers are not ready.,159
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,2,will,anti,0,yes,132,The semester will start next week%2C but the students and teachers are not ready.,132
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,3,start,wages,1,no,160,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,4,next,body,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,5,week%2C,sold%2C,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,6,but,sin,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,7,the,sky,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,8,students,entitled,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,9,and,sky,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,10,teachers,concrete,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,11,are,oil,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,12,not,him,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,13,ready.,goods.,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,0,Kim,x-x-x,0,yes,1393,Kim will display the photos she took next month%2C but she won't show all of them.,1393
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,1,will,milk,1,no,153,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,2,display,dealing,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,3,the,sit,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,4,photos,compel,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,5,she,eat,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,6,took,thin,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,7,next,poem,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,8,month%2C,older%2C,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,9,but,us,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,10,she,thy,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,11,won't,scale,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,12,show,soft,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,13,all,ran,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,14,of,eat,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672865433,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,72,15,them.,soon.,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+#
+# Results on Wednesday January 04 2023 20:52:53 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:108.0) Gecko/20100101 Firefox/108.0
+# Design number was non-random = 6
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Question,1,0,q_intro_country,NULL,What country are you from?,USA,1,1218
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Question,2,0,q_intro_language,NULL,Is English your first language?,Yes,1,659
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Question,3,0,q_intro_age,NULL,What is your age bracket?,18-24,1,514
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Alternative.
+# 11. Word on (0=left, 1=right).
+# 12. Correct.
+# 13. Reading time to first answer.
+# 14. Sentence.
+# 15. Total time to correct answer.
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,0,The,x-x-x,0,yes,1035,The mother of the prisoner sent him packages that contained cookies and novels.,1035
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,1,mother,placed,0,yes,176,The mother of the prisoner sent him packages that contained cookies and novels.,176
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,2,of,dry,0,yes,136,The mother of the prisoner sent him packages that contained cookies and novels.,136
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,3,the,arm,0,yes,181,The mother of the prisoner sent him packages that contained cookies and novels.,181
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,4,prisoner,amounted,0,yes,339,The mother of the prisoner sent him packages that contained cookies and novels.,339
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,5,sent,rare,1,no,334,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,6,him,nor,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,7,packages,rhythmic,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,8,that,fund,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,9,contained,authority,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,10,cookies,blossom,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,11,and,me,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,107,12,novels.,defect.,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,0,The,x-x-x,0,yes,402,The semester will start next week%2C but the students and teachers are not ready.,402
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,1,semester,chivalry,0,yes,178,The semester will start next week%2C but the students and teachers are not ready.,178
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,2,will,anti,0,yes,406,The semester will start next week%2C but the students and teachers are not ready.,406
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,3,start,wages,0,yes,338,The semester will start next week%2C but the students and teachers are not ready.,338
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,4,next,body,1,no,361,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,5,week%2C,sold%2C,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,6,but,sin,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,7,the,sky,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,8,students,entitled,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,9,and,sky,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,10,teachers,concrete,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,11,are,oil,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,12,not,him,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,10,0,practice,108,13,ready.,goods.,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,2,0,Greta,x-x-x,0,yes,1120,Greta will display the photos she took last month%2C but she won't show all of them.,1120
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,2,1,will,milk,0,yes,401,Greta will display the photos she took last month%2C but she won't show all of them.,401
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,2,2,display,dealing,1,yes,1286,Greta will display the photos she took last month%2C but she won't show all of them.,1286
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,2,3,the,sit,0,yes,311,Greta will display the photos she took last month%2C but she won't show all of them.,311
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,2,4,photos,compel,0,no,361,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,2,5,she,eat,0,no,None,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,2,6,took,thin,0,no,None,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,2,7,last,poem,1,no,None,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,2,8,month%2C,older%2C,1,no,None,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,2,9,but,us,1,no,None,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,2,10,she,thy,1,no,None,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,2,11,won't,scale,0,no,None,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,2,12,show,soft,0,no,None,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,2,13,all,ran,0,no,None,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,2,14,of,eat,0,no,None,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,2,15,them.,soon.,0,no,None,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,1,0,Kim,x-x-x,0,yes,58164,Kim will display the photos she took next month%2C but she won't show all of them.,58164
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,1,1,will,milk,0,yes,177,Kim will display the photos she took next month%2C but she won't show all of them.,177
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,1,2,display,dealing,0,yes,269,Kim will display the photos she took next month%2C but she won't show all of them.,269
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,1,3,the,sit,0,yes,272,Kim will display the photos she took next month%2C but she won't show all of them.,272
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,1,4,photos,compel,0,yes,224,Kim will display the photos she took next month%2C but she won't show all of them.,224
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,1,5,she,eat,1,no,227,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,1,6,took,thin,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,1,7,next,poem,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,1,8,month%2C,older%2C,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,1,9,but,us,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,1,10,she,thy,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,1,11,won't,scale,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,1,12,show,soft,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,1,13,all,ran,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,1,14,of,eat,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672865574,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,crit_item,1,15,them.,soon.,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+#
+# Results on Wednesday January 04 2023 21:09:27 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:108.0) Gecko/20100101 Firefox/108.0
+# Design number was non-random = 7
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Question,0,0,q_intro_prolificid,NULL,Please enter your Prolific ID:,t,NULL,13176
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Question,2,0,q_intro_country,NULL,What country are you from?,UK,0,747
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Question,3,0,q_intro_language,NULL,Is English your first language?,No,0,761
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Question,4,0,q_intro_age,NULL,What is your age bracket?,25-34,0,509
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Alternative.
+# 11. Word on (0=left, 1=right).
+# 12. Correct.
+# 13. Reading time to first answer.
+# 14. Sentence.
+# 15. Total time to correct answer.
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,0,The,x-x-x,0,no,1166,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,1,mother,placed,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,2,of,dry,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,3,the,arm,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,4,prisoner,amounted,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,5,sent,rare,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,6,him,nor,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,7,packages,rhythmic,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,8,that,fund,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,9,contained,authority,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,10,cookies,blossom,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,11,and,me,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,12,novels.,defect.,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,0,The,x-x-x,0,no,584,The semester will start next week%2C but the students and teachers are not ready.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,1,semester,chivalry,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,2,will,anti,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,3,start,wages,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,4,next,body,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,5,week%2C,sold%2C,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,6,but,sin,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,7,the,sky,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,8,students,entitled,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,9,and,sky,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,10,teachers,concrete,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,11,are,oil,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,12,not,him,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,13,ready.,goods.,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,2,0,Greta,x-x-x,0,no,872,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,2,1,will,milk,0,no,None,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,2,2,display,dealing,1,no,None,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,2,3,the,sit,1,no,None,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,2,4,photos,compel,0,no,None,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,2,5,she,eat,0,no,None,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,2,6,took,thin,1,no,None,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,2,7,last,poem,0,no,None,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,2,8,month%2C,older%2C,1,no,None,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,2,9,but,us,1,no,None,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,2,10,she,thy,0,no,None,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,2,11,won't,scale,0,no,None,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,2,12,show,soft,1,no,None,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,2,13,all,ran,0,no,None,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,2,14,of,eat,0,no,None,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,2,15,them.,soon.,1,no,None,Greta will display the photos she took last month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1,0,Kim,x-x-x,0,no,629,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1,1,will,milk,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1,2,display,dealing,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1,3,the,sit,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1,4,photos,compel,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1,5,she,eat,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1,6,took,thin,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1,7,next,poem,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1,8,month%2C,older%2C,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1,9,but,us,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1,10,she,thy,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1,11,won't,scale,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1,12,show,soft,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1,13,all,ran,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1,14,of,eat,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1,15,them.,soon.,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,3,0,Kim,x-x-x,0,no,2745,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,3,1,will,milk,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,3,2,display,dealing,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,3,3,the,sit,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,3,4,photos,compel,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,3,5,she,eat,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,3,6,took,thin,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,3,7,next,poem,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,3,8,month%2C,older%2C,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,3,9,but,us,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,3,10,she,thy,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,3,11,won't,scale,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,3,12,show,soft,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,3,13,all,ran,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,3,14,of,eat,0,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+1672866568,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,3,15,them.,soon.,1,no,None,Kim will display the photos she took next month%2C but she won't show all of them.,None
+#
+# Results on Wednesday January 04 2023 21:45:59 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:108.0) Gecko/20100101 Firefox/108.0
+# Design number was non-random = 8
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Form,0,0,q_intro_prolificid,NULL,prolificid,949494gfkfkf3f3
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Question,2,0,q_intro_country,NULL,What country are you from?,Canada,0,1038
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Question,3,0,q_intro_language,NULL,Is English your first language?,Yes,1,23013
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Question,4,0,q_intro_age,NULL,What is your age bracket?,18-24,1,613
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Alternative.
+# 11. Word on (0=left, 1=right).
+# 12. Correct.
+# 13. Reading time to first answer.
+# 14. Sentence.
+# 15. Total time to correct answer.
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,0,The,x-x-x,0,yes,1666,The mother of the prisoner sent him packages that contained cookies and novels.,1666
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,1,mother,placed,0,yes,197,The mother of the prisoner sent him packages that contained cookies and novels.,197
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,2,of,dry,0,yes,292,The mother of the prisoner sent him packages that contained cookies and novels.,292
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,3,the,arm,0,yes,207,The mother of the prisoner sent him packages that contained cookies and novels.,207
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,4,prisoner,amounted,1,no,268,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,5,sent,rare,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,6,him,nor,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,7,packages,rhythmic,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,8,that,fund,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,9,contained,authority,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,10,cookies,blossom,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,11,and,me,1,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,12,0,practice,107,12,novels.,defect.,0,no,None,The mother of the prisoner sent him packages that contained cookies and novels.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,0,The,x-x-x,0,yes,942,The semester will start next week%2C but the students and teachers are not ready.,942
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,1,semester,chivalry,0,yes,473,The semester will start next week%2C but the students and teachers are not ready.,473
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,2,will,anti,0,yes,359,The semester will start next week%2C but the students and teachers are not ready.,359
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,3,start,wages,0,yes,406,The semester will start next week%2C but the students and teachers are not ready.,406
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,4,next,body,0,yes,383,The semester will start next week%2C but the students and teachers are not ready.,383
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,5,week%2C,sold%2C,1,no,719,The semester will start next week%2C but the students and teachers are not ready.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,6,but,sin,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,7,the,sky,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,8,students,entitled,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,9,and,sky,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,10,teachers,concrete,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,11,are,oil,1,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,12,not,him,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,11,0,practice,108,13,ready.,goods.,0,no,None,The semester will start next week%2C but the students and teachers are not ready.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,20,0,crit_item,1032,0,Triangular,x-x-x,0,yes,3109,Triangular silver plastic%2C "NEWSTART PE-TA-PUN A.V.C.",3109
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,20,0,crit_item,1032,1,silver,miller,1,yes,922,Triangular silver plastic%2C "NEWSTART PE-TA-PUN A.V.C.",922
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,20,0,crit_item,1032,2,plastic%2C,ongoing%2C,0,yes,1146,Triangular silver plastic%2C "NEWSTART PE-TA-PUN A.V.C.",1146
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,20,0,crit_item,1032,3,"NEWSTART,"OPERANDS,0,yes,2837,Triangular silver plastic%2C "NEWSTART PE-TA-PUN A.V.C.",2837
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,20,0,crit_item,1032,4,PE-TA-PUN,WATERSHED,1,yes,2384,Triangular silver plastic%2C "NEWSTART PE-TA-PUN A.V.C.",2384
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,20,0,crit_item,1032,5,A.V.C.",OBOES.",0,yes,1149,Triangular silver plastic%2C "NEWSTART PE-TA-PUN A.V.C.",1149
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,18,0,crit_item,1736,0,You,x-x-x,0,yes,786,You ask for a 50. Nab.,786
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,18,0,crit_item,1736,1,ask,lake,1,yes,812,You ask for a 50. Nab.,812
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,18,0,crit_item,1736,2,for,knew,1,yes,606,You ask for a 50. Nab.,606
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,18,0,crit_item,1736,3,a,cent,1,yes,610,You ask for a 50. Nab.,610
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,18,0,crit_item,1736,4,50.,en.,0,yes,1302,You ask for a 50. Nab.,1302
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,18,0,crit_item,1736,5,Nab.,Pomp.,0,yes,2341,You ask for a 50. Nab.,2341
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,19,0,crit_item,1561,0,Wars,x-x-x,0,yes,629,Wars SELECT any revised wretched%2C really?,629
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,19,0,crit_item,1561,1,SELECT,CLOSET,0,yes,1687,Wars SELECT any revised wretched%2C really?,1687
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,19,0,crit_item,1561,2,any,jack,0,yes,629,Wars SELECT any revised wretched%2C really?,629
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,19,0,crit_item,1561,3,revised,expired,1,no,1058,Wars SELECT any revised wretched%2C really?,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,19,0,crit_item,1561,4,wretched%2C,worsened%2C,0,no,None,Wars SELECT any revised wretched%2C really?,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,19,0,crit_item,1561,5,really?,happen?,0,no,None,Wars SELECT any revised wretched%2C really?,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,16,0,crit_item,1068,0,Nasser,x-x-x,0,yes,739,Nasser sighed%2C apparently weighing the same..,739
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,16,0,crit_item,1068,1,sighed%2C,bikers%2C,1,yes,1309,Nasser sighed%2C apparently weighing the same..,1309
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,16,0,crit_item,1068,2,apparently,parameters,1,yes,1032,Nasser sighed%2C apparently weighing the same..,1032
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,16,0,crit_item,1068,3,weighing,dividend,0,yes,1101,Nasser sighed%2C apparently weighing the same..,1101
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,16,0,crit_item,1068,4,the,tell,1,yes,791,Nasser sighed%2C apparently weighing the same..,791
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,16,0,crit_item,1068,5,same..,hear..,0,no,1240,Nasser sighed%2C apparently weighing the same..,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,1048,0,Played,x-x-x,0,yes,585,Played from and unified by Amazon.,585
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,1048,1,from,lose,0,yes,1282,Played from and unified by Amazon.,1282
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,1048,2,and,grow,1,no,1173,Played from and unified by Amazon.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,1048,3,unified,octopus,0,no,None,Played from and unified by Amazon.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,1048,4,by,sir,0,no,None,Played from and unified by Amazon.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,15,0,crit_item,1048,5,Amazon.,Guilty.,1,no,None,Played from and unified by Amazon.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1555,0,POWDER,x-x-x,0,no,717,POWDER ROOM Ricardo Sat foul Notre.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1555,1,ROOM,OKAY,1,no,None,POWDER ROOM Ricardo Sat foul Notre.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1555,2,Ricardo,Fittest,0,no,None,POWDER ROOM Ricardo Sat foul Notre.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1555,3,Sat,Math,0,no,None,POWDER ROOM Ricardo Sat foul Notre.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1555,4,foul,riot,0,no,None,POWDER ROOM Ricardo Sat foul Notre.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,13,0,crit_item,1555,5,Notre.,Widen.,0,no,None,POWDER ROOM Ricardo Sat foul Notre.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,1591,0,Thank,x-x-x,0,yes,450,Thank spawned for Arc this Ven.,450
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,1591,1,spawned,plagued,1,no,381,Thank spawned for Arc this Ven.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,1591,2,for,west,1,no,None,Thank spawned for Arc this Ven.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,1591,3,Arc,Inn,0,no,None,Thank spawned for Arc this Ven.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,1591,4,this,lady,1,no,None,Thank spawned for Arc this Ven.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,14,0,crit_item,1591,5,Ven.,Avg.,0,no,None,Thank spawned for Arc this Ven.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,17,0,crit_item,1730,0,Duderstadt,x-x-x,0,yes,70627,Duderstadt in the Eichsfeld tattoos pred.,70627
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,17,0,crit_item,1730,1,in,sir,1,no,495,Duderstadt in the Eichsfeld tattoos pred.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,17,0,crit_item,1730,2,the,glad,0,no,None,Duderstadt in the Eichsfeld tattoos pred.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,17,0,crit_item,1730,3,Eichsfeld,Abrogated,1,no,None,Duderstadt in the Eichsfeld tattoos pred.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,17,0,crit_item,1730,4,tattoos,screwed,1,no,None,Duderstadt in the Eichsfeld tattoos pred.,None
+1672868760,d080785b5a4a2d23dabaf48f0271ebbe,Maze,17,0,crit_item,1730,5,pred.,loam.,1,no,None,Duderstadt in the Eichsfeld tattoos pred.,None
