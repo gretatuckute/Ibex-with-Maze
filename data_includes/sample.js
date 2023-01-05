@@ -19,6 +19,7 @@ var defaults = [
     //"Maze", {redo: true}, //uncomment to try Maze with new redo mode with a delay!
 ];
 var items = [
+
 	["q_intro_prolificid", "Form", {html: "<p>Please enter your Prolific ID:</p><p><input type='text' name='prolificid' size='24' /></p>", continueMessage: "Continue"}],
 
 	["evlab_intro_instructions", "Message", {html: "<p>You are participating in a study about language and related cognitive abilities being conducted by Professor Evelina Fedorenko from the Department of Brain and Cognitive Sciences at MIT. If you have questions or concerns, you can contact Professor Fedorenko by email (evelina9@mit.edu)</p><p>Your participation in this research is voluntary. You may decline to answer any or all of the following questions. You may decline further participation, at any time, without adverse consequences. Your anonymity is assured; the researchers who have requested your participation will not receive any personal information about you.\n</p><p>Please answer the background questions below. The only restriction to being paid is achieving the accuracy requirements as detailed below XXXXXXXXXXXX. Payment is NOT dependent on your answers to the following background questions on country and language.\n</p>"}],
