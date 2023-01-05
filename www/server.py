@@ -1709,7 +1709,13 @@ def control(env, start_response):
                 if CFG['INCLUDE_COMMENTS_IN_RESULTS_FILE']:
                     main_results = get_comment_intersperser()(main_results, column_names)
                 csv_results = to_csv(main_results)
-                rf = lock_and_open(os.path.join(PWD, CFG['RESULT_FILES_DIR'], CFG['RESULT_FILE_NAME']), "a")
+                
+                import hashlib
+                unique_filename = hashlib.md5(csv_results).hexdigest()
+
+                rf = lock_and_open(os.path.join(PWD, 
+                                                CFG['RESULT_FILES_DIR'], 
+                                                unique_filename + '_' + CFG['RESULT_FILE_NAME']), "a")
                 rf.write(header.encode(DEFAULT_ENCODING))
                 rf.write(csv_results.encode(DEFAULT_ENCODING))
 
