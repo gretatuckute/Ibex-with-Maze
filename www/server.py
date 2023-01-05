@@ -1678,11 +1678,11 @@ def control(env, start_response):
 
         # This will be called in the normal course of events, and if
         # there is an error parsing the JSON.
-        def backup_raw_post_data(header=None):
+        def backup_raw_post_data(header=None, prefix=''):
             bf = None
             try:
                 try:
-                    bf = lock_and_open(os.path.join(PWD, CFG['RESULT_FILES_DIR'], CFG['RAW_RESULT_FILE_NAME']), "a")
+                    bf = lock_and_open(os.path.join(PWD, CFG['RESULT_FILES_DIR'], prefix + CFG['RAW_RESULT_FILE_NAME']), "a")
                     if header:
                         bf.write(u"\n")
                         bf.write(header.encode(DEFAULT_ENCODING))
@@ -1705,17 +1705,18 @@ def control(env, start_response):
                                               time_module.gmtime(thetime)),
                          user_agent,
                          u"Design number was " + ((random_counter and u"random = " or u"non-random = ") + unicode(counter)))
-                backup_raw_post_data(header)
                 if CFG['INCLUDE_COMMENTS_IN_RESULTS_FILE']:
                     main_results = get_comment_intersperser()(main_results, column_names)
                 csv_results = to_csv(main_results)
                 
                 import hashlib
-                unique_filename = hashlib.md5(csv_results).hexdigest()
+                prefix = hashlib.md5(csv_results).hexdigest() + '_'
+
+                backup_raw_post_data(header, prefix=prefix)
 
                 rf = lock_and_open(os.path.join(PWD, 
                                                 CFG['RESULT_FILES_DIR'], 
-                                                unique_filename + '_' + CFG['RESULT_FILE_NAME']), "a")
+                                                prefix + CFG['RESULT_FILE_NAME']), "a")
                 rf.write(header.encode(DEFAULT_ENCODING))
                 rf.write(csv_results.encode(DEFAULT_ENCODING))
 
